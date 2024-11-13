@@ -1,0 +1,9 @@
+aws_region         = "us-east-1"
+vpc_cidr_block     = "10.0.0.0/16"
+subnet_cidr_blocks = ["10.0.1.0/24", "10.0.2.0/24"]
+mq_broker_name     = "my-broker"
+host_instance_type = "mq.t3.micro"
+engine_type        = "ActiveMQ"
+engine_version     = "5.17.6"
+username           = "admin"
+password           = "Welcome@12345"

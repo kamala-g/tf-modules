@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"mq_broker","Source":"./modules/mq-broker","Dir":"modules/mq-broker"},{"Key":"vpc","Source":"./modules/vpc","Dir":"modules/vpc"}]}
